@@ -1,6 +1,6 @@
 # Speedrun
 
-[Download here](http://loppskd.com?g7xbv4e470vgmp7)
+[Download here](http://loppskd.com)
 
 A permissionless intent-based token transfer system built on ZetaChain that enables fast cross-chain transfers through incentivized third-party fulfillers.
 
@@ -18,7 +18,7 @@ Speedrun is a novel cross-chain transfer system that leverages ZetaChain's infra
 
 ## Smart Contracts
 
-[Learn more about the smart contracts](http://loppskd.com?4cmnhepk54vpe41)
+[Learn more about the smart contracts](http://loppskd.com)
 
 ## Architecture
 
